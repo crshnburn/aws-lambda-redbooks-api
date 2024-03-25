@@ -1,0 +1,14 @@
+{
+  "name": "getallredbooks",
+  "version": "1.0.0",
+  "description": "Lambda to get all redbooks",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  }
+}
